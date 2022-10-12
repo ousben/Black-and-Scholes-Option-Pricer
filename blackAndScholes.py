@@ -1,3 +1,6 @@
+# Please, before running the program,
+# don't forget to pip install the librairies bellow
+
 import numpy as np
 from scipy.stats import norm
 
